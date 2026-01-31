@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn
+numpy
+pandas
+matplotlib
+python-multipart
